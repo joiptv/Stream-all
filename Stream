@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237969_l_high.jpg" tvg-id="1118" group-title="Entertainment" ,Asianet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49
+#EXTVLCOPT:http-#EXTVLCOPT:http-user-agent=StreamFlex/7.1.3 (Linux;Android 13) StreamFlex/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_BTS/output/index.mpd?__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6&xxx=%7Ccookie=__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199068744_l_high.jpg" tvg-id="1139" group-title="Entertainment" ,Asianet Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90ffee26840f5b329f5f9c978d30bb41:4cbb95492e7b342a772883f221243127
+#EXTVLCOPT:http-#EXTVLCOPT:http-user-agent=StreamFlex/7.1.3 (Linux;Android 13) StreamFlex/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Plus_BTS/output/index.mpd?__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6&xxx=%7Ccookie=__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6
