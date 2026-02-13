@@ -89,71 +89,73 @@ https://in-mc-fdlive.fancode.com/mumbai/140549_english_hls_3bd94c769f36_1ta-di_h
 
 # === ICC Start ===
 
-#EXTINF:-1 tvg-id="EXTENDERMAXTG" tvg-name="EXTENDERMAXTG" tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="PROMO" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",EXTENDERMAXTG
-https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
-#EXTINF:-1 tvg-id="MT20: Canada v United Arab Emirates" tvg-name="MT20: Canada v United Arab Emirates" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905387/prd/vh4csubprbmuskgjmzbg" group-title="ICC Live" group-logo="https://sflex07.fun/Logo/ICC_Logo_WHITE-1536x572.png",MT20: Canada v United Arab Emirates
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1771001227~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=a103cb16ab7f7db31cf4e3fdf79739cf172ce518fad116e2938d740c63ed69a2/manifest.mpd?vcfilter=9d725f5b-e0c4-4a80-b6ba-4f71c22827aa&
-#EXTINF:-1 tvg-id="MT20: Canada v United Arab Emirates (HINDI)" tvg-name="MT20: Canada v United Arab Emirates (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905348/prd/btr76ph262f7uhme21mc" group-title="ICC Live" group-logo="https://sflex07.fun/Logo/ICC_Logo_WHITE-1536x572.png",MT20: Canada v United Arab Emirates (HINDI)
+#EXTINF:-1 tvg-id="MT20: Canada v United Arab Emirates (HINDI)" tvg-name="MT20: Canada v United Arab Emirates (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905348/prd/btr76ph262f7uhme21mc" group-title="ICC Live",MT20: Canada v United Arab Emirates (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1771001334~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=2eca19ededb2dfb692614736260058d349900763388fe236fc4da69b5578f53c/manifest.mpd?vcfilter=af827393-bc69-45d3-ba4e-b31405f966e5&
-#EXTINF:-1 tvg-id="MT20: USA v Netherlands" tvg-name="MT20: USA v Netherlands" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905335/prd/banors59kh0lvlemueis" group-title="ICC Live" group-logo="https://sflex07.fun/Logo/ICC_Logo_WHITE-1536x572.png",MT20: USA v Netherlands
+
+#EXTINF:-1 tvg-id="MT20: USA v Netherlands" tvg-name="MT20: USA v Netherlands" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905335/prd/banors59kh0lvlemueis" group-title="ICC Live",MT20: USA v Netherlands
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1771015418~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=41736b14879289c15d48ccab189daa0fa897dcb9e5430722d2eed7930949ba0d/manifest.mpd?vcfilter=bb58f077-5e32-46ef-b01f-625fa555e3eb&
+
 #EXTINF:-1 tvg-id="MT20: USA v Netherlands (HINDI)" tvg-name="MT20: USA v Netherlands (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905343/prd/ot9c6bsqzamnb3q6cwpc" group-title="ICC Live" group-logo="https://sflex07.fun/Logo/ICC_Logo_WHITE-1536x572.png",MT20: USA v Netherlands (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1771015424~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=80b01531a57c5246639669da9cb0e8c5f6be5c433c7819114b7226757c170fef/manifest.mpd?vcfilter=c43d0224-f355-4b4e-b52e-b332420d8e53&
 
-# === ICC End ===
-
-# === T20WC Start ===
-
 # === T20 World Cup | Star Channels Only ===
 
-#EXTINF:-1 tvg-id="1106" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-English
+#EXTINF:-1 tvg-id="1106" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/1106
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/1106
-#EXTINF:-1 tvg-id="1108" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Hindi
+#EXTINF:-1 tvg-id="1108" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/1108
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/1108
-#EXTINF:-1 tvg-id="1122" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Kannada 2
+
+#EXTINF:-1 tvg-id="1122" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-Kannada 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/1122
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/1122
-#EXTINF:-1 tvg-id="1650" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Kannada 1
+
+#EXTINF:-1 tvg-id="1650" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-Kannada 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/1650
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/1650
-#EXTINF:-1 tvg-id="2852" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Telugu 2
+#EXTINF:-1 tvg-id="2852" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-Telugu 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/2852
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/2852
-#EXTINF:-1 tvg-id="3278" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Telugu 1
+#EXTINF:-1 tvg-id="3278" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-Telugu 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/3278
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/3278
-#EXTINF:-1 tvg-id="2853" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Tamil 2
+
+#EXTINF:-1 tvg-id="2853" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" ",Star-Tamil 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/2853
+
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://keys.vodep39240327.workers.dev/mpd/2853
-#EXTINF:-1 tvg-id="3277" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches" group-logo="https://sflex07.fun/Logo/JioHotstar.png",Star-Tamil 1
+
+#EXTINF:-1 tvg-id="3277" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" group-title="T20 World Cup |Live Matches",Star-Tamil 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/3277
 #EXTHTTP:{"Cookie":"","Origin":"https://jiotv.com/","Referer":"https://jiotv.com/","User-Agent":"plaYtv/7.1.3 (Linux;Android 10) ygx/824.1","Telegram":"@vaathala1","Creator":"@vaathala1"}
@@ -164,7 +166,7 @@ https://keys.vodep39240327.workers.dev/mpd/3277
 
 
 
-#EXTINF:-1 tvg-id="1049" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",DD Malayalam
+#EXTINF:-1 tvg-id="1049" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34196b45866150ffb2a6ad0b7b3ea915:09cc8250fd06b26f9c68771f537c76c4
 #EXTVLCOPT:http-user-agent=@allinone_reborn
@@ -180,7 +182,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Malayalam_BTS/output/index.mpd?__hdnea
 https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_TV_BTS/output/index.mpd?__hdnea__=st=1770980438~exp=1771066838~acl=/*~hmac=8d4ffabcab53b63b730499fb438b0305b205d03bea7fe90912f744e2d60320ad
 
 
-#EXTINF:-1 tvg-id="1066" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",Amrita TV
+#EXTINF:-1 tvg-id="1066" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",Amrita TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9856e2c13135d258f498b6a39b6e13b:8ba49286b6900e132f5785488aa241d2
 #EXTVLCOPT:http-user-agent=@allinone_reborn
@@ -188,7 +190,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_TV_BTS/output/index.mpd?__hdnea__
 https://jiotvmblive.cdn.jio.com/bpk-tv/Amrita_TV_BTS/output/index.mpd?__hdnea__=st=1770980438~exp=1771066838~acl=/*~hmac=8d4ffabcab53b63b730499fb438b0305b205d03bea7fe90912f744e2d60320ad
 
 
-#EXTINF:-1 tvg-id="1070" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",Kairali WE TV
+#EXTINF:-1 tvg-id="1070" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" ",Kairali WE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48eebab77b4d50c79e39ae25460683c4:95c65c81fa2c7ca40163139e1a34c8c4
 #EXTVLCOPT:http-user-agent=@allinone_reborn
@@ -196,7 +198,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Amrita_TV_BTS/output/index.mpd?__hdnea__=
 https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_WE_TV_BTS/output/index.mpd?__hdnea__=st=1770980438~exp=1771066838~acl=/*~hmac=8d4ffabcab53b63b730499fb438b0305b205d03bea7fe90912f744e2d60320ad
 
 
-#EXTINF:-1 tvg-id="1085" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",Sun TV HD
+#EXTINF:-1 tvg-id="1085" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-log",Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
 #EXTVLCOPT:http-user-agent=@allinone_reborn
@@ -204,14 +206,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_WE_TV_BTS/output/index.mpd?__hdne
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1770980438~exp=1771066838~acl=/*~hmac=8d4ffabcab53b63b730499fb438b0305b205d03bea7fe90912f744e2d60320ad
 
 
-#EXTINF:-1 tvg-id="1130" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",Surya Comedy
+#EXTINF:-1 tvg-id="1130" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",Surya Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f89e312c5e051f4b0baada7c375662a:34ab95577a62df1b54ba527f0995281e
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1770980438~exp=1771066838~acl=/*~hmac=8d4ffabcab53b63b730499fb438b0305b205d03bea7fe90912f744e2d60320ad"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Comedy_MOB/WDVLive/index.mpd?__hdnea__=st=1770980438~exp=1771066838~acl=/*~hmac=8d4ffabcab53b63b730499fb438b0305b205d03bea7fe90912f744e2d60320ad
 
-#EXTINF:-1 tvg-id="1172" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",Zee Keralam SD
+#EXTINF:-1 tvg-id="1172" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.pn",Zee Keralam SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
 #EXTVLCOPT:http-user-agent=@allinone_reborn
@@ -220,7 +222,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKeralamSD_MOB/WDVLive/index.mpd?__hdne
 
 0320ad
 
-#EXTINF:-1 tvg-id="1185" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png" group-logo="https://sflex07.fun/Logo/Picsart_26-02-12_10-58-49-850.png",Vijay Takkar
+#EXTINF:-1 tvg-id="1185" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",Vijay Takkar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecdf4d18807e55bf814c3f40656a33c3:0031af1bf42234195cda0eb88fd6003b
 #EXTVLCOPT:http-user-agent=@allinone_reborn
